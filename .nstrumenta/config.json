@@ -1,0 +1,14 @@
+{
+    "modules": [
+        {
+            "type": "sandbox",
+            "name": "camera-sender",
+            "folder": "camera-sender"
+        },
+        {
+            "type": "nodejs",
+            "name": "coral-detect",
+            "folder": "coral-detect"
+        }
+    ]
+}
